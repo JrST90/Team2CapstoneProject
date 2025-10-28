@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="-2r6f-8ZHxnY7n_Akfcx">
-    <mxGraphModel dx="1426" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,14 +28,14 @@
             <mxPoint x="220" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J5cmCkrFSMle3lGMMK53-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="J5cmCkrFSMle3lGMMK53-10" value="Input Parameter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5cmCkrFSMle3lGMMK53-11" value="Search" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="919" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="807" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J5cmCkrFSMle3lGMMK53-12" value="Search by Fabrication" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="100" width="90" height="30" as="geometry" />
+        <mxCell id="J5cmCkrFSMle3lGMMK53-12" value="Search by Fabrication Department" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="85" y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5cmCkrFSMle3lGMMK53-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="110" width="10" height="10" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="70" y="130" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oQfDAl763L0kA4lGbmJ4-1" value="Create Record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="919" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="935" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-1" value="PART_NUMBER" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="106" y="188" width="103" height="30" as="geometry" />
@@ -184,11 +184,8 @@
             <mxPoint x="960" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OL1bqfD5inbpWZYyXE3z-13" value="History" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="100" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-14" value="Export" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="1063" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-15" value="&lt;b&gt;(READ ONLY) Quality Department&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="329" y="45" width="221" height="30" as="geometry" />
@@ -288,6 +285,9 @@
         </mxCell>
         <mxCell id="3Wm5HQ20feWB6C4Id2cw-42" value="2025-08-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="756.5" y="308" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LwlC6fawFugg7Tje4sWn-1" value="The Quality Department Manager, who has read only access, has selected the query &quot;Search by Fabrication Department&quot; from the first drop down menu selector. From here, no other selections or input is necessary, as the database will be queried for all records whose production information contains operators whose job id indicates they work in the Fabrication Department. The appropriate results are displayed in the table with attribute values for each record displayed under the proper column headers. A total number of records is displayed to the user underneath the first drop down selector, displaying the total number of records that result from the chosen query." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="518" width="537" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

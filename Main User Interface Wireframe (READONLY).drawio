@@ -32,7 +32,7 @@
           <mxGeometry x="450" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5cmCkrFSMle3lGMMK53-11" value="Search" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="919" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="801" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5cmCkrFSMle3lGMMK53-12" value="Search Query" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="100" width="90" height="30" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="70" y="130" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oQfDAl763L0kA4lGbmJ4-1" value="Create Record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="919" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="928" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-1" value="PART_NUMBER" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="106" y="188" width="103" height="30" as="geometry" />
@@ -184,14 +184,14 @@
             <mxPoint x="960" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OL1bqfD5inbpWZYyXE3z-13" value="History" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OL1bqfD5inbpWZYyXE3z-13" value="Export" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1055" y="100" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OL1bqfD5inbpWZYyXE3z-14" value="Export" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-15" value="&lt;b&gt;(READ ONLY)&amp;nbsp; Shipping Department&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="45" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5hG-Y-5GCI3IeTmpiVH-1" value="The main user interface - This is the first interface that department managers will see upon execution of the application. The top banner displays the current state and permissions, which in this case is ready only and for the Shipping Department as specified by pre set access permissions. Users have three input fields, which consist of two drop down menu selectors, and a text input field. A user may select a query from the first drop down menu selector, and depending on the nature of the query, they will either select a second option from the second drop down menu selector, or input their search parameter into the text input field. The Search Button will run the query based upon the users chosen query and search parameters and output the results in a row and column format into the table with the labeled column headers. The Create Record button will launch the Create Record interface for new record insertion into the database, and is restricted to Fabrication and Machine Shop Department use. The Export button will export the contents of the current query results and export them in a CSV (Comma Separated Values) file format." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="516" width="538" height="219" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="-2r6f-8ZHxnY7n_Akfcx">
-    <mxGraphModel dx="1426" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="450" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5cmCkrFSMle3lGMMK53-11" value="Search" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="919" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="811" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5cmCkrFSMle3lGMMK53-12" value="Search by Part Number" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="100" width="90" height="30" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="70" y="130" width="296" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oQfDAl763L0kA4lGbmJ4-1" value="Create Record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="919" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="937" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-1" value="PART_NUMBER" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="106" y="188" width="103" height="30" as="geometry" />
@@ -184,14 +184,14 @@
             <mxPoint x="960" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OL1bqfD5inbpWZYyXE3z-13" value="History" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="100" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-14" value="Export" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="1063" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-15" value="&lt;b&gt;(READ ONLY) Shipping Department&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="329" y="45" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xXbEIMrLr9EfMNHIlRYI-1" value="The Shipping Department Manager, who has ready only access, has selected the &quot;Search by Part Number&quot; query from the first drop down menu selector, and has entered the value &quot;3179098H03&quot; into the text input field as a search parameter and executed the query. As a result, no records were found that contained the entered part number, and the user is notified underneath the first drop down menu selector that the Number of Records is zero, and that no records were found using the search parameter." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="520" width="545" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
