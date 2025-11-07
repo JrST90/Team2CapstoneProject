@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="-2r6f-8ZHxnY7n_Akfcx">
-    <mxGraphModel dx="1826" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,9 +88,9 @@
             <mxPoint x="740" y="337.58000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J5cmCkrFSMle3lGMMK53-30" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="J5cmCkrFSMle3lGMMK53-23" edge="1">
+        <mxCell id="J5cmCkrFSMle3lGMMK53-30" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5QqdlSc7wrrH5C7Atc8f-2" target="J5cmCkrFSMle3lGMMK53-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="368.9461883408071" as="sourcePoint" />
+            <mxPoint x="100" y="368" as="sourcePoint" />
             <mxPoint x="740" y="368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -139,6 +139,9 @@
         <mxCell id="J5cmCkrFSMle3lGMMK53-38" value="Number of Records: 4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oQfDAl763L0kA4lGbmJ4-1" value="Create Record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="936" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-1" value="PART_NUMBER" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="106" y="188" width="103" height="30" as="geometry" />
         </mxCell>
@@ -184,8 +187,8 @@
         <mxCell id="OL1bqfD5inbpWZYyXE3z-14" value="Export" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1063" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OL1bqfD5inbpWZYyXE3z-15" value="&lt;b&gt;Fabrication Department Archive&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="336" y="45" width="204" height="30" as="geometry" />
+        <mxCell id="OL1bqfD5inbpWZYyXE3z-15" value="&lt;b&gt;Fabrication Department&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="336" y="45" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OL1bqfD5inbpWZYyXE3z-16" value="3156061H01" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="74.5" y="216" width="161" height="30" as="geometry" />
@@ -283,23 +286,41 @@
         <mxCell id="OL1bqfD5inbpWZYyXE3z-54" value="5500040381-AC9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1005.5" y="310" width="122" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5QqdlSc7wrrH5C7Atc8f-3" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="5QqdlSc7wrrH5C7Atc8f-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="368" as="sourcePoint" />
+            <mxPoint x="1175" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QqdlSc7wrrH5C7Atc8f-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="338.0000000000001" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="5QqdlSc7wrrH5C7Atc8f-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="378" as="sourcePoint" />
             <mxPoint x="120" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QqdlSc7wrrH5C7Atc8f-5" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="5QqdlSc7wrrH5C7Atc8f-5" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5QqdlSc7wrrH5C7Atc8f-2" target="5QqdlSc7wrrH5C7Atc8f-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="369" as="sourcePoint" />
-            <mxPoint x="120" y="369" as="targetPoint" />
+            <mxPoint x="-75" y="560" as="sourcePoint" />
+            <mxPoint x="-25" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QqdlSc7wrrH5C7Atc8f-7" value="Restore Record&lt;div&gt;(Main Table)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#D0D0D0;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-4" y="340" width="120" height="30" as="geometry" />
+        <mxCell id="5QqdlSc7wrrH5C7Atc8f-6" value="Update Record" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="338" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mv1lNaDEBIKuA7t6p8ME-1" value="The Fabrication Manager, who has create, read, update, and delete access privileges, has selected the &quot;Search by Part Number&quot; query from the first drop down menu selector and input a part number as a search parameter into the input text field and received 4 records as a result. The Fabrication Manager wishes to delete the last record and right clicks on the record, and selected the &quot;Restore Record (Main Table)&quot; choice. This in turn will mark a hidden attribute field for the record in the PART_HISTORY table labeled TO_DELETE which stores a Boolean value of true or false. Clicking on the &quot;Restore Record (Main Table)&quot; choice marks the chosen record&#39;s TO_DELETE hidden attribute as FALSE, which will restore the record to the main table, undoing the soft delete." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5QqdlSc7wrrH5C7Atc8f-7" value="Delete Record&lt;div&gt;(Archive)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="368" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mv1lNaDEBIKuA7t6p8ME-1" value="The Fabrication Manager, who has create, read, update, and delete access privileges, has selected the &quot;Search by Part Number in Archive (WHERE TO_DELETE = TRUE)&quot; query from the first drop down menu selector and input a part number as a search parameter into the input text field and received 4 records as a result. The Fabrication Manager wishes to Restore the last record and right clicks on the record, and selected the &quot;Restore Record (Main Table)&quot; choice. This in turn will mark a hidden attribute field for the record in the PART_HISTORY table labeled TO_DELETE which stores a Boolean value of true or false. Clicking on the &quot;Restore Record (Main Table)&quot; choice marks the chosen record&#39;s TO_DELETE hidden attribute as FALSE which will restore the record for future queries as though it were not deleted." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="523" width="540" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="iEWJ-6u5igc2AUZ3Jk00-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="398" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEWJ-6u5igc2AUZ3Jk00-20" value="Restore Record&lt;div&gt;(Main Table)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#D0D0D0;strokeColor=light-dark(#D0D0D0,#D0D0D0);" parent="1" vertex="1">
+          <mxGeometry y="398" width="119" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
